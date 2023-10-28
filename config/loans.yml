@@ -1,0 +1,11 @@
+build:
+ version: "3.0"
+loans:
+ message: "welcome to loans dev environment"
+ contactDetails:
+  name: "Nagaraju"
+  email: "cse_loans@gmail.com"
+ onCallSupport: 
+  - "(555)555-1234"
+  - "(555)555-3456"
+

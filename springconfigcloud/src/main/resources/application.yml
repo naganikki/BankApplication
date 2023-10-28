@@ -1,0 +1,26 @@
+server:
+ port: 8071
+ 
+spring:
+ application:
+  name: "configserver"
+ profiles:
+  #active: native
+  active: git 
+ cloud:
+  config:
+   server:
+    git:
+     uri: "file:///D:/gitrepo"
+#     default-label: none
+     clone-on-start: true
+     timeout: 5
+     force-pull: true
+    #native:
+     #search-locations: "classpath:/config"
+     #search-locations: "file:///D:/v2-springboot-cloud-config/config"
+    bootstrap: true
+encrypt:
+ key: "BBA22A4E7914FD7FBAFED646C7DC5"
+    
+      

@@ -1,0 +1,15 @@
+build:
+ version: "3.0"
+accounts:
+ message: "welcome to nagabank's contact details" 
+ contactDetails:
+  name: "Naga Raju"
+  email: "cse_naga@gmail.com"
+ onCallSupport:
+  - "(555)555-1234"
+  - "(555)555-3456"  
+     
+    
+   
+  
+  

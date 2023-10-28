@@ -1,0 +1,10 @@
+build:
+ version: "2.0"
+loans:
+ message: "welcome to loans qa environment"
+ contactDetails:
+  name: "Nagaraju_loans_qa"
+  email: "cse_loans_qa@gmail.com"
+ onCallSupport:
+  - (555)555-1234
+  - (555)555-3456  

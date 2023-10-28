@@ -1,0 +1,12 @@
+build:
+ version: "2.0"
+ 
+accounts:
+ message: "welcome to nagabank's QA environment"
+ contactDetails: 
+  name: "Raju_qa"
+  email: "cse_qa@gmail.com"
+ onCallSupport:
+  -(555)555-1234
+  -(555)555-3456
+  

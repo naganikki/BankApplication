@@ -1,0 +1,10 @@
+build:
+ version: "2.0"
+cards:
+ message: "welcome to cards application prod environment"
+ contactDetails:
+  name: "Nagaraju_prod_dev"
+  email: "cse_cards_prod@gmail.com"
+ onSupportCAll:
+  - (555)555-1234
+  - (555)555-3456

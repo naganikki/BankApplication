@@ -1,0 +1,11 @@
+build:
+ version: "1.0"
+ 
+accounts:
+ message: "welcome to nagabank's prod environment"
+ contactDetails: 
+  name: "Naga_prod"
+  email: "cse_prod@gmail.com"
+ onCallSupport:
+  -(555)555-1234
+  -(555)555-3456
