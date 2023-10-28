@@ -1,0 +1,40 @@
+services:
+ bankAccounts:
+  image: "accounts:0.1"
+  container_name: accounts_ms
+  ports:
+   - "8888:8888"
+  deploy:
+   resources:
+    limits:
+     memory: 700m
+  networks:
+   - nagabank
+ loans:
+  image: "loans:0.1"
+  container_name: loans_ms
+  ports:
+   - "8899:8899"
+  deploy:
+   resources:
+    limits:
+     memory: 700m
+  networks:
+   - nagabank
+ cards:
+  image: "cards:0.1"
+  container_name: cards_ms
+  ports:
+   - "8800:8800"
+  deploy:
+   resources:
+    limits:
+     memory: 700m
+  networks:
+   - nagabank
+networks:
+ nagabank:
+  driver: bridge
+   
+  
+ 
