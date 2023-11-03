@@ -2,7 +2,7 @@ build:
  version: "2.0"
  
 accounts:
- message: "welcome to nagabank's QA environment"
+ message: "welcome to nagabank's web hook QA environment"
  contactDetails: 
   name: "Raju_qa"
   email: "cse_qa@gmail.com"
