@@ -5,7 +5,7 @@ accounts:
  message: "welcome to nagabank's prod environment"
  contactDetails: 
   name: "Naga_prod"
-  email: "cse_prod@gmail.com"
+  email: "{cipher}2b57f378b19f1111d579e7821ed0d797be504b37212eaf4f4338041adbea53422d634537ab8b9f435d4ebe163fa172c8"
  onCallSupport:
   -(555)555-1234
   -(555)555-3456
