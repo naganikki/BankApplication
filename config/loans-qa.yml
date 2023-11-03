@@ -1,7 +1,7 @@
 build:
  version: "2.0"
 loans:
- message: "welcome to loans qa environment"
+ message: "welcome to loans  web hook QA environment"
  contactDetails:
   name: "Nagaraju_loans_qa"
   email: "cse_loans_qa@gmail.com"
