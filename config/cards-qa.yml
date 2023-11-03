@@ -1,7 +1,7 @@
 build:
  version: "2.0"
 cards:
- message: "welcome to cards application qa environment"
+ message: "welcome to cards application web hook QA environment"
  contactDetails:
   name: "Nagaraju_qa"
   email: "cse_cards_qa@gmail.com"
