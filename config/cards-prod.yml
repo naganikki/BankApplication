@@ -1,7 +1,7 @@
 build:
  version: "2.0"
 cards:
- message: "welcome to cards application prod environment"
+ message: "welcome to cards application web hook prod environment"
  contactDetails:
   name: "Nagaraju_prod_dev"
   email: "cse_cards_prod@gmail.com"
