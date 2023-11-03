@@ -1,7 +1,7 @@
 build:
  version: "3.0"
 accounts:
- message: "welcome to nagabank's contact details" 
+ message: "welcome to nagabank's web hooks contact details" 
  contactDetails:
   name: "Naga Raju"
   email: "cse_naga@gmail.com"
