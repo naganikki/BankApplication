@@ -1,7 +1,7 @@
 build:
  version: "3.0"
 cards:
- message: "welcome to cards configuration"
+ message: "welcome to cards web hook dev environment"
  contactDetails:
   name: "Nikita Nagaraj"
   email: "cse_cards@gmial.com"
