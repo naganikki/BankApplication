@@ -1,7 +1,7 @@
 build:
  version: "4.0"
 loans:
- message: "welcome to loans web hook prod environment"
+ message: "welcome to loans web hook docker prod environment"
  contactDetails:
   name: "Nagaraju_loans_prod"
   email: "cse_loans_prod@gmail.com"
